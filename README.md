@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N-a-z-a-a
+- 👋 Hi, I’m Joy
 - 👀 I’m interested in connecting with brilliant minds and learning 
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on learning projects concerned with frontend and wordpress development
